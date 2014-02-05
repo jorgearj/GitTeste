@@ -13,6 +13,6 @@ public class Main {
 		
 		//sera desta
 
-		System.out.println("Epah isto Ž muito complicado :S");
+		System.out.println("One more time");
 	}
 }
